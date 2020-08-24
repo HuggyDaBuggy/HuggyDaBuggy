@@ -1,4 +1,4 @@
-<h1>hi</h1>
+<h1>hi <img align="center" src="https://lh3.googleusercontent.com/ogw/ADGmqu9THGkJTP6vALrs_pDdeyEFspXbyUPPvgZiPCHr=s192-c-mo" height="256px" width="256px"></h1>
 
 <h3> my stats or smth </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
