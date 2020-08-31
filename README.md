@@ -6,7 +6,7 @@
 ## I program for fun!
 
 - 🔭 I’m currently working on [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project) for school
-- 🌱 I’m currently learning [Javascript](https://www.javascript.com)
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💬 Ask me about <a href="https://github.com/HuggyDaBuggy/Pokemon-Project">Pokemon-Project</a>
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
 - 😄 Pronouns: Him / He
