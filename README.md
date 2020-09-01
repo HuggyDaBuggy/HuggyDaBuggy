@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💬 Ask me about <a href="https://github.com/HuggyDaBuggy/Pokemon-Project">Pokemon-Project</a>
+- 💬 Ask me about [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
 - 😄 Pronouns: Him / He
 <!--
