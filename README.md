@@ -31,3 +31,9 @@
 - <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15">  CSS
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15">  JavaScript
+
+<!--
+LICENSE
+If you would like to copy this file or any others on my profile please **Star** and **Fork** it first.
+Files on my Profile are protect by GNU General Public License v3.0.
+-->
