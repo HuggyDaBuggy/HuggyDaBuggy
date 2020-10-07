@@ -3,14 +3,14 @@
   </h1>
 </div>
 
-## I program for fun!
+## I program
 
 - 🔭 I’m currently working on [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💬 Ask me about [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
-- 😄 Pronouns: Him / He
 <!--
+- 😄 Pronouns: Him / He
 - ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on N/A
 - 🤔 I’m looking for help with N/A
