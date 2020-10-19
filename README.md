@@ -5,9 +5,9 @@
 
 ## I program
 
-- 🔭 I’m currently working on [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
+- 🔭 I’m currently working on a <b>Chrome Extension</b> (private repo)
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💬 Ask me about [Pokemon-Project](https://github.com/HuggyDaBuggy/Pokemon-Project)
+- 💬 Ask me about something
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
 <!--
 - 😄 Pronouns: Him / He
