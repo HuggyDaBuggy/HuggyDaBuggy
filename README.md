@@ -6,7 +6,7 @@
 ## I program
 
 - 🔭 I’m currently working on a <b>Chrome Extension</b> (private repo)
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning C# and Javascript
 - 💬 Ask me about something
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
 <!--
@@ -31,6 +31,8 @@
 - <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15">  CSS
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15">  JavaScript
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" height="15"> C#
 
 <!--
 LICENSE
