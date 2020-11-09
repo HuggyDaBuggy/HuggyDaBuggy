@@ -5,8 +5,8 @@
 
 ## I program
 
-- 🔭 I’m currently working on a <b>Chrome Extension</b> (private repo)
-- 🌱 I’m currently learning C# and Javascript
+- 🔭 I’m currently working on learning [<b>Unity</b>](https://unity.com)
+- 🌱 I’m currently learning Unity, C# and Javascript
 - 💬 Ask me about something
 - 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
 <!--
@@ -24,18 +24,18 @@
 
 ## Languages i have used:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="15">  Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="15"> <b>Python</b>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="15">  HTML5
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="15"> <b>HTML5</b>
 
-- <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15">  CSS
+- <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15"> <b>CSS</b>
 
-- <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15">  JavaScript
+- <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15"> <b>JavaScript</b>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" height="15"> C#
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" height="15"> <b>C#</b>
 
-<!--
-LICENSE
-If you would like to copy this file or any others on my profile please **Star** and **Fork** it first.
-Files on my Profile are protect by GNU General Public License v3.0.
--->
+## Programs i have used:
+
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="15"> <b>Unity</b>
+
+- <img src="https://code.visualstudio.com/assets/favicon.ico" height="15"> <b>VS Code</b>
