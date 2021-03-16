@@ -1,42 +1,46 @@
-<div align="center">
-  <h1> <img src="https://media0.giphy.com/media/mGVKd9IwAp6rUIFEjN/source.gif" width="35px"> Hello <img src="https://media0.giphy.com/media/mGVKd9IwAp6rUIFEjN/source.gif" width="35px">
-  </h1>
-</div>
+<h1 align="center">Hi 👋, I'm HuggyDaBuggy</h1>
+<h3 align="center">I program for fun!</h3>
 
-## I program
+- 🔭 I’m currently working on **[A Chrome Extension](https://chrome.google.com/webstore/detail/arcade-classics/gokcmhknbfbkchaljcbjloaebnoblcnd)**
 
-- 💻 I made a [chrome extension](https://chrome.google.com/webstore/detail/arcade-classics/gokcmhknbfbkchaljcbjloaebnoblcnd)
-- 🔭 I’m currently working on learning [<b>Unity</b>](https://unity.com)
-- 🌱 I’m currently learning Unity, C# and Javascript
-- 💬 Ask me about something
-- 📫 How to contact me: Message me on discord - [HuggyDaBuggy#3233](https://discord.com)
-<!--
-- 😄 Pronouns: Him / He
-- ⚡ Fun fact: 
-- 👯 I’m looking to collaborate on N/A
-- 🤔 I’m looking for help with N/A
--->
+- 🌱 I’m currently learning **FireBase**
 
-## My GitHub stats:
+- 📫 How to reach me **HuggyDaBuggy#3233 (discord)**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HuggyDaBuggy&count_private=true&show_icons=true&theme=merko">
+<h2>Contact me:</h2>
+<p>
+<a href="https://twitter.com/huggyda" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14191015" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/huggydabuggy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40" /></a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuggyDaBuggy&layout=compact&theme=merko">
+<h2>Languages</h2>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
-## Languages i have used:
+<h2>Tools:</h2>
+<p>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a>
+</p>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="15"> <b>Python</b>
+<h2>Stats</h2>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huggydabuggy&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=huggydabuggy&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huggydabuggy&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" />
+</p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=huggydabuggy&theme=onedark&no-bg=true&no-frame=true&column=7" /></p>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="15"> <b>HTML5</b>
-
-- <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15"> <b>CSS</b>
-
-- <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15"> <b>JavaScript</b>
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" height="15"> <b>C#</b>
-
-## Programs i have used:
-
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="15"> <b>Unity</b>
-
-- <img src="https://code.visualstudio.com/assets/favicon.ico" height="15"> <b>VS Code</b>
+<!-- ReadMe Created With: https://rahuldkjain.github.io/gh-profile-readme-generator/, Modified By Me>
