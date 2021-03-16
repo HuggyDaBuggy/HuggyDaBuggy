@@ -36,6 +36,11 @@
 </p>
 
 <h2>Stats</h2>
-<img src="https://metrics.lecoq.io/HuggyDaBuggy?template=classic&repositories.forks=true&isocalendar=1&languages=1&introduction=1&followup=1&achievements=1&lines=1&stars=1&people=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=10&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&achievements.threshold=X&achievements.secrets=true&achievements.limit=10&config.timezone=Australia%2FPerth&config.twemoji=true" >
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huggydabuggy&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=huggydabuggy&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huggydabuggy&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" />
+</p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=huggydabuggy&theme=onedark&no-bg=true&no-frame=true&column=7" /></p>
 
 <!-- ReadMe Created With: https://rahuldkjain.github.io/gh-profile-readme-generator/, Modified By Me>
