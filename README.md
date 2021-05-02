@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HuggyDaBuggy</h1>
-<h3 align="center">I program for fun!</h3>
+<h3 align="center">A programmer</h3>
 
 - 🔭 I’m currently working on **[A Chrome Extension](https://chrome.google.com/webstore/detail/arcade-classics/gokcmhknbfbkchaljcbjloaebnoblcnd)**
 
