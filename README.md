@@ -9,7 +9,7 @@
 
 <h2>Contact me:</h2>
 <p>
-<a href="https://twitter.com/huggyda" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/huggydabuggy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14191015" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/huggydabuggy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40" /></a>
 </p>
